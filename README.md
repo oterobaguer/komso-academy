@@ -64,3 +64,8 @@ When everything is installed open a terminal on the exercises folder and run `ju
 ### 6) Remarks
 
 The jupter notebooks in the repository are designed to work in Google Colab, if you want to use them locally you might need to do some changes.
+
+### 7) Resources
+
+- Backpropagation video: https://www.youtube.com/watch?v=tIeHLnjs5U8
+- https://playground.tensorflow.org/
