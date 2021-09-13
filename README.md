@@ -19,7 +19,7 @@ Go to [https://colab.research.google.com](https://colab.research.google.com).
 
 Select the GITHUB tab (1) and type `oterobaguer` (2). Then select the `komso-academy` (3) repository (master branch) and select the `01_pytorch_intro` (4) notebook.
 
-![](google-colab.png)
+![](instructions.jpg)
 
 ## Local installation instructions
 
